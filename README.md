@@ -7,7 +7,7 @@ No incio estava pensando em fazer do zero a implementacao, porem o montante de t
 * **PureData** 
 
 TODO:
-- [] Ler a documentacao de introducao
-- [] Colocar em en_us
-- [] Mais para frente, fazer a implementacao do zero como foi planejado
-- [] Pesquisar quais tipos de glitch da pra fazer nas imagens (tipo Pixel Sort)
+- [ ] Ler a documentacao de introducao
+- [ ] Colocar em en_us
+- [ ] Mais para frente, fazer a implementacao do zero como foi planejado
+- [ ] Pesquisar quais tipos de glitch da pra fazer nas imagens (tipo Pixel Sort)
